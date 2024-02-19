@@ -1,0 +1,2 @@
+npx - Use it when you don't want React/Angualar locally installed like npm does. This command saves a lot of space. Basically, it grabs the files from create-react-app  repository, create new application and clean up.
+
